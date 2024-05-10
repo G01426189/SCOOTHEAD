@@ -2,6 +2,10 @@
 
 class ScooterApp {
   // ScooterApp code here
+  constructor(){
+    this.stations =
+    'Station a';
+  }
 }
 
 module.exports = ScooterApp
